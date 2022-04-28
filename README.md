@@ -1,6 +1,6 @@
 ## IBLCAD
 
-Master branch contains measurements for metric breadboard. Use "Imperial" branch for an imperial breadboard since the distance of the holes is slightly different. 
+Imperial and metric versions of IBL rig parts 
 
 ### Mesoscope Rotary Encoder Holder
 Found in RotaryEncoder, this version of the holder allows the rotary encoder to be rotated to the opposite side, thus removing it from the FOV of the body camera.
